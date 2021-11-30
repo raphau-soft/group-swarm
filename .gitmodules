@@ -1,0 +1,9 @@
+[submodule "stock"]
+	path = stock
+	url = https://github.com/raphau-soft/stock-front-swarm
+[submodule "stockExchange"]
+	path = stockExchange
+	url = https://github.com/raphau-soft/stock-backend-swarm
+[submodule "traffic-generator"]
+	path = traffic-generator
+	url = https://github.com/raphau-soft/traffic-backend-swarm
